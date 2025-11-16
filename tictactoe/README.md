@@ -17,7 +17,7 @@ This project implements a simple game of Tic-Tac-Toe using the Pygame library. Y
 To run this project, you'll need the following:
 
 - Python 3.x
-- Pygame library (already included in the project)
+- Pygame library (installed via requirements.txt))
 
 ## Installation
 
@@ -27,7 +27,7 @@ To run this project, you'll need the following:
    git clone https://github.com/your-username/tic-tac-toe-pygame.git
 
 ## How to Play
-   - use runner.py to open game 
+   - Use runner.py to start the game 
    - When you run the game, you'll be presented with a menu to choose your player: "X" or "O". Click on the respective buttons to select.
    - The game board will appear, and you can take turns to make your moves by clicking on an empty cell.
    - The AI opponent (if you didn't choose it as your player) will also make moves using the minimax algorithm.
